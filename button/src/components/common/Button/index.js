@@ -17,9 +17,9 @@ export default function Button({
     href,
     target,
     icon,
+
 }) 
 {
-    let typeIcon = null ;
     return(
       <>
             {   type === 'button' &&  (

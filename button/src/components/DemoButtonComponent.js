@@ -19,8 +19,9 @@ export default function DemoButtonComponent(){
                     <Button icon="icons ion-ios-eye" value="Hello Tag A"  className="btn btn-primary"  href="https://www.zendvn.com/" target='_blank'/>
                     <Button icon="icons ion-ios-eye" value="Hello Tag A"  className="btn-size-large"  href="https://www.zendvn.com/" target='_blank'/>
                 </div>
-              
+                
             </div>
         </div>
     )
+    
 }
